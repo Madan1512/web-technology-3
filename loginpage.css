@@ -1,0 +1,19 @@
+.cent
+{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 50%;
+    
+}
+.row
+{
+    background-color: rgb(99, 171, 231);
+    
+}
+label
+{
+font-size: 20px;
+color: aliceblue;
+font-family:Georgia, 'Times New Roman', Times, serif;
+}
